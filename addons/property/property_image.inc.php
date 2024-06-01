@@ -1,0 +1,1 @@
+<div class='j-center j-xlarge j-text-color1'style='height:inherit;width:inherit;'><br><br>Image will be here</div>
